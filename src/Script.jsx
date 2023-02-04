@@ -10,6 +10,33 @@ const Script = () => {
       <button onClick={apple}>hello</button>
       <p>Hy There</p>
       <p>another change</p>
+      <p>one more change</p>
+      <p>hello</p>
+      <p>Hy There</p>
+      <p>another change</p>
+      <p>one more change</p>
+      <p>hello</p>
+      <p>Hy There</p>
+      <p>another change</p>
+      <p>one more change</p>
+      <p>hello</p>
+      <p>Hy There</p>
+      <p>another change</p>
+      <p>one more change</p>
+      <p>hello</p>
+      <p>Hy There</p>
+      <p>another change</p>
+      <p>one more change</p>
+      <p>hello</p>
+      <p>Hy There</p>
+      <p>another change</p>
+      <p>one more change</p>
+      <p>hello</p>
+      <p>Hy There</p>
+      <p>another change</p>
+      <p>one more change</p>
+      <p>hello</p>
+      {console.log("hello")}
     </div>
   );
 };
