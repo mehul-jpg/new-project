@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mehul-jpg.github.io/new-project/static/css/main.f29ae65a.chunk.css",
+    "main.js": "/mehul-jpg.github.io/new-project/static/js/main.015b69e0.chunk.js",
+    "main.js.map": "/mehul-jpg.github.io/new-project/static/js/main.015b69e0.chunk.js.map",
+    "runtime-main.js": "/mehul-jpg.github.io/new-project/static/js/runtime-main.6f9472e4.js",
+    "runtime-main.js.map": "/mehul-jpg.github.io/new-project/static/js/runtime-main.6f9472e4.js.map",
+    "static/js/2.7b24b9ca.chunk.js": "/mehul-jpg.github.io/new-project/static/js/2.7b24b9ca.chunk.js",
+    "static/js/2.7b24b9ca.chunk.js.map": "/mehul-jpg.github.io/new-project/static/js/2.7b24b9ca.chunk.js.map",
+    "index.html": "/mehul-jpg.github.io/new-project/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "/mehul-jpg.github.io/new-project/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.7b24b9ca.chunk.js.LICENSE.txt": "/mehul-jpg.github.io/new-project/static/js/2.7b24b9ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f9472e4.js",
+    "static/js/2.7b24b9ca.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.015b69e0.chunk.js"
+  ]
+}
