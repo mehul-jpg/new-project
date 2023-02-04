@@ -9,6 +9,7 @@ const Script = () => {
       <h1>Script rendered</h1>
       <button onClick={apple}>hello</button>
       <p>Hy There</p>
+      <p>another change</p>
     </div>
   );
 };
