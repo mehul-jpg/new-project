@@ -37,6 +37,7 @@ const Script = () => {
       <p>one more change</p>
       <p>hello</p>
       {console.log("hello")}
+      <h1>Hy</h1>
     </div>
   );
 };
